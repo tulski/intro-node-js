@@ -37,12 +37,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7d774a51-c4aa-4552-9160-7dee0a6326b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/api/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/api/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/cli/contacts.json" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/cli/contacts.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/cli/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/cli/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/testing/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/testing/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/testing/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/testing/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +129,7 @@
       <workItem from="1603984671895" duration="6667000" />
       <workItem from="1604057243465" duration="57000" />
       <workItem from="1604057304441" duration="4531000" />
-      <workItem from="1604063622847" duration="3077000" />
+      <workItem from="1604063622847" duration="7276000" />
     </task>
     <servers />
   </component>
@@ -177,6 +173,10 @@
     </state>
     <state x="341" y="164" key="SettingsEditor/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604066075549" />
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1604064027350" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1604071661801">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="248" key="run.anything.popup/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604071661801" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1604066067739">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
